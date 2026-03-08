@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ガリレオのショーケース (D.A style)",
+  "base_artist": "UNISON SQUARE GARDEN",
+  "createdAt": "2026-03-08T06:52:37.167014Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ガリレオのショーケース - D.A style",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/01_ガリレオのショーケース_-_D.A_style_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ガリレオのショーケース (D.A style)",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/02_ガリレオのショーケース_(D.A_style)_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ガリレオのショーケース (D.A style)",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/03_ガリレオのショーケース_(D.A_style)_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ガリレオのショーケース",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": false,
+      "path": "select/pl_01_ガリレオのショーケース_UNISON_SQUARE_GARDEN.txt"
+    }
+  ]
+}
